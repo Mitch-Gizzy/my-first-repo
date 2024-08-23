@@ -1,2 +1,2 @@
-//This file belongs to Mitchel
+#This file belongs to Mitchel
 print("Hello World")
